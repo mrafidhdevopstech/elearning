@@ -55,4 +55,4 @@ Menghapus data mahasiswa dari database (disertai tombol konfirmasi).
 1. **Clone repo ini** (jika ada di GitHub):
    ```bash
    git clone https://github.com/mrafidhdevopstech/elearning.git
-   cd mahasiswa-crud
+   cd elearning
